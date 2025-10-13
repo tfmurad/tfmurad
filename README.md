@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-![Profile views](https://komarev.com/ghpvc/?username=tfmurad&label=Profile%20views&color=0e75b6&style=flat)
-<br />
-
 <div style="width: 100%; display: flex; justify-items: center; align-items: center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Honk&size=37&pause=1000&color=F7E000&center=true&vCenter=true&width=580&height=100&lines=Hey%2C+This+is+Murad;A+Quick+Learner...;Passionate+Developer...;I+have+been+working+for+2.5%2B+years)](https://git.io/typing-svg)
@@ -24,3 +21,6 @@
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 12px">
   </a>
 </p>
+
+![Profile views](https://komarev.com/ghpvc/?username=tfmurad&label=Profile%20views&color=0e75b6&style=flat)
+<br />
