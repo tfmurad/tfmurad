@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://almuraduz.vercel.app/" target="_blank">
+  <a href="https://al-murad.me/" target="_blank">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" style="margin-right: 12px">
   </a>
   <a href="https://www.linkedin.com/in/almuraduzzaman" target="_blank">
