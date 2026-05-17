@@ -17,7 +17,7 @@
   <a href="https://twitter.com/almuraduz" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 12px">
   </a>
-  <a href="https://www.reddit.com/user/tfmurad" target="_blank">
+  <a href="https://www.reddit.com/user/almuraduz" target="_blank">
     <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" height="28" style="margin-right: 12px">
   </a>
 </p>
